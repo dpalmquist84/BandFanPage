@@ -26,3 +26,8 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.root{
+  background: url("https://gph.is/https://media.giphy.com/media/xFhCP9zMzf4wU/giphy.gif2dlX0K9");
+  background: black
+}
